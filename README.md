@@ -1,9 +1,13 @@
 # -谷歌翻译API-
-
+  
 谷歌翻译，读音下载，最主要的就是google tk值的计算
-
+  
 这里提供两个版本的tk计算方法。一是在python中调用js代码。二是用python改写js代码。
-
+  
+google_tk.py为调用js代码
+    
+tk_generator.py为改写
+    
 适用python3
 
 Usage:
