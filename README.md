@@ -10,7 +10,7 @@ tk_generator.py为改写
     
 适用'''python3
 
-#Usage:
+# Usage:
 
     Call this python script from the command line.
     
