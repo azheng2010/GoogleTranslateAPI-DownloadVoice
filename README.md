@@ -1,4 +1,4 @@
-# -谷歌翻译API-
+# 谷歌翻译API
   
 谷歌翻译，读音下载，最主要的就是google tk值的计算
   
@@ -8,9 +8,9 @@ google_tk.py为调用js代码
     
 tk_generator.py为改写
     
-适用python3
+适用'''python3
 
-Usage:
+#Usage:
 
     Call this python script from the command line.
     
